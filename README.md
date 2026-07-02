@@ -11,4 +11,4 @@ Production-grade server security for Ubuntu 20.04 / 22.04 / 24.04.
 
 ```bash
 # One-liner install
-bash <(curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/vps-hardening/main/harden.sh)
+bash <(https://raw.githubusercontent.com/nrikmoh/VPS-Security-Extras/refs/heads/main/extras.sh)
